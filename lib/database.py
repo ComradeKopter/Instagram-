@@ -1,5 +1,5 @@
-# Date: 05/05/2018
-# Author: Mohamed
+# Date: 12/20/2022
+# Author: Muhammed Sun
 # Description: Session Handler
 
 import json
