@@ -1,5 +1,5 @@
-# Date: 12/28/2018
-# Author: Mohamed
+# Date: 12/20/2022
+# Author: Muhammed Sun
 # Description: Browser
 
 import typing
