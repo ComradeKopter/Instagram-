@@ -1,5 +1,5 @@
-# 12/29/2018
-# Author: Mohamed
+# 12/20/2022
+# Author: Muhammed Sun
 # Description: Display
 
 from os import system
